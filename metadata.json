@@ -1,0 +1,6 @@
+{
+  "name": "BrandPitch",
+  "description": "Turn your creator profile into a professional brand-deal hub. Media kit, rate cards, brand inquiry portal, sponsorship CRM, and revenue tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
